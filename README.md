@@ -13,9 +13,9 @@ Using the dataset, the 6 key questions generated were;
 - The total profits generated in consumer, corporate, and home office segments. 
 - The top 5 product names with the highest number of quantities in the U.S. Superstore.
 
-- ### Result/Discussion:
+### Result/Discussion:
 
-- ![](Pivotchart1.png)
+ ![](Pivotchart1.png)
 
 The snapshot above shows an analysis of total sales by category and average profit by region. The result includes:
 
