@@ -21,46 +21,48 @@ The snapshot above shows an analysis of total sales by category and average prof
 
 ###  Total Sales by Category
 
-##### Technology Category:
+#### Technology Category:
 Total Sales: $836,154.033
 
 Percentage of Total Sales: 37%
 
-##### Furniture Category:
+#### Furniture Category:
 Total Sales: $741,999.7953
 
 Percentage of Total Sales: 32%
 
-##### Office Supplies Category:
+#### Office Supplies Category:
 Total Sales: $719,047.032
 
 Percentage of Total Sales: 31%
 
 ### Average Profit by Region:
 
-##### West Region:
+#### West Region:
 Average Profit: $33.84903181
 
 Percentage of Total Profit: 30%
 
-##### East Region:
+#### East Region:
 Average Profit: $32.13580758
 
 Percentage of Total Profit: 29%
 
-##### South Region:
+#### South Region:
 Average Profit: $28.85767302
 
 Percentage of Total Profit: 26%
 
-##### Central Region:
+#### Central Region:
 Average Profit: $17.09270878
 
 Percentage of Total Profit: 15%
 
 This report provides a clear overview of the total sales by category and average profit by region, highlighting the significant contributions of the Technology category and the West Region.  These insights are be valuable for making informed business decisions.
 
+
 ![](Pivotchart2.png)
+
 The above snapshot provides the analysis of profitability by state and the following results show the performance of various states: 
 
 Indiana emerges as the state with the highest recorded profit, totaling $8,399.976. This indicates strong business performance in Indiana. 
@@ -74,24 +76,25 @@ Minnesota's profit has a $4,630.4755 and New York stands at profit of $3,919.988
 
 These analyses are valuable for strategic decision-making.
 
+
 ![](Pivotchart3.png)
 
 The analysis has identified the top 4 customers by discount and analyzed the total profits by segment. The result includes;
 
-##### Top 4 Customers by Discount:
+#### Top 4 Customers by Discount:
 
 William Brown stands out as the customer with the highest number of discounts, totaling 37 and constituting 27% of the total discounts
 While John Lee, Paul Prost, and Matt Abelman have the same number of discounts, totaling 34 discounts, and constituting 25% of the total discounts, respectively. 
 
 Additionally, the total Profits by Segment includes the following:
 
-##### Consumer Segment: 
+#### Consumer Segment: 
 The consumer segment has generated the highest total profits, amounting to $134,119.2092 and representing 47% of the total.
 
-##### Corporate Segment: 
+#### Corporate Segment: 
 The corporate segment follows closely with total profits of $91,979.134, making up 32% of the total profits.
 
-##### Home Office Segment: 
+#### Home Office Segment: 
 The home office segment has generated a lower total profit of $60,298.6785, accounting for 21% of the total.
 
 Understanding the top customers by discount and the profitability of different segments is crucial for strategic decision making.
